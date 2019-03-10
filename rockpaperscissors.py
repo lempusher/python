@@ -1,3 +1,4 @@
+#kinda rock, paper, scissors game vs. CPU; random choices
 import random
 
 dict = {"rock":"scissors", "paper":"rock", "scissors":"paper"}
