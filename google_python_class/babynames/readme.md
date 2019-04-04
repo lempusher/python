@@ -1,3 +1,3 @@
-my soluton of baby names escercise
+my soluton of baby names exercise
 <br>
 https://developers.google.com/edu/python/exercises/basic
