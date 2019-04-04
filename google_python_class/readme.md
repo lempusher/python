@@ -1,1 +1,1 @@
-Google's Python is a good practice
+Google's Python Class is a good practice
