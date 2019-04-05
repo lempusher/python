@@ -1,4 +1,5 @@
 #this simple script guesses your number
+#you have to help by typing "l" or lower, "h" for higher or "y" for yes
 import random
 st = 0
 en = 100
