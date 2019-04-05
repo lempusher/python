@@ -1,6 +1,6 @@
 #count words, returns words in order of most frequent words first
 #my first program that works in command prompt / bash :)
-#instructions: countwords.py filename.txt
+#instructions: python countwords.py filename.txt
 import sys
 import re
 
