@@ -1,3 +1,4 @@
+#this simple script guesses your number
 import random
 st = 0
 en = 100
